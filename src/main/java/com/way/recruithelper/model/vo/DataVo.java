@@ -1,4 +1,4 @@
-package com.way.recruithelper.tencent.model.vo;
+package com.way.recruithelper.model.vo;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

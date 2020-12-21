@@ -1,7 +1,6 @@
-package com.way.recruithelper.tencent.model.param;
+package com.way.recruithelper.model.param;
 
-import com.way.recruithelper.tencent.model.constant.Constant;
-import lombok.Builder;
+import com.way.recruithelper.model.constant.Constant;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.SuperBuilder;

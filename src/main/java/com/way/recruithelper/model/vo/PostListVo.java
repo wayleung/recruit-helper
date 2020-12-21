@@ -1,4 +1,4 @@
-package com.way.recruithelper.tencent.model.vo;
+package com.way.recruithelper.model.vo;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -42,5 +42,4 @@ public class PostListVo  implements Serializable {
         private Integer SourceID;
         private Boolean IsCollect;
         private Boolean IsValid;
-
 }

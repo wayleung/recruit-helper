@@ -1,4 +1,8 @@
-package com.way.recruithelper.tencent.model.vo;
+package com.way.recruithelper.model.vo;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.experimental.SuperBuilder;
 
 import java.io.Serializable;
 
@@ -7,6 +11,9 @@ import java.io.Serializable;
  * @description
  * @date 2020-12-18 15:00:26
  */
+@Data
+@NoArgsConstructor
+@SuperBuilder
 public class PostDetailVo  implements Serializable {
     private static final long serialVersionUID = -9163332389462039668L;
     /**

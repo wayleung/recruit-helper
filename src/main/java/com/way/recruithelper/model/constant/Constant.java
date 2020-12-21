@@ -1,4 +1,4 @@
-package com.way.recruithelper.tencent.model.constant;
+package com.way.recruithelper.model.constant;
 
 /**
  * @author wayleung
